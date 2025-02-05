@@ -1,10 +1,3 @@
-Here's an example of a README file for the `MSE803` repository:
-
-```markdown
-# MSE803
-
-Welcome to the MSE803 repository. This repository is intended for the course MSE803.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
